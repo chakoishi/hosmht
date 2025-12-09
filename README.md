@@ -4,9 +4,8 @@ hosmhtは特殊な構造になっているmht/zipファイルに添付されて�
 現在Windows11(x64)のみ対応しております
 
 # 最新版
-[v1.0.2](https://github.com/chakoishi/hosmht/releases)(2025/08/03)
-- 画像リスト幅を保存するようにした
-- 設定ファイルはDocument/hosmht直下に保存します
+[v1.0.4](https://github.com/chakoishi/hosmht/releases)(2025/12/09)
+- ソート順番を修正
 
 # スクリーンショット
 
